@@ -63,7 +63,7 @@ An AI-powered system with two independent components:
 🔧 Installation
 
 # Clone repo
-git clone https://github.com/yourusername/bio-trading-bot.git
+git clone https://github.com/VinayJogani14/SorosAI-Intelligent-Biography-and-Pairs-Trading-System.git
 cd bio-trading-bot
 
 # Create environment
